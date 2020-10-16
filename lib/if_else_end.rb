@@ -3,7 +3,7 @@
 time = Time.now.to_i
 
 # if statement to see if the seconds are in odd or even
-if time.even?
+if time.Even?
   puts "Even!"
 else 
   puts "Odd!"
